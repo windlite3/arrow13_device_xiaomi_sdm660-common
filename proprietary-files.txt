@@ -58,7 +58,7 @@ system_ext/lib/libhoaeffects_csim.so|729f6119dbff492a03d26acaa45d60c78af77483
 system_ext/lib/liblsmclient.so|63d015a12e6546bcb0b1582a262bcf8af4797fcf
 system_ext/lib/libvr_amb_engine.so|c9ef7e0264efe2c9dd76dbdadfadb450be7be782
 system_ext/lib/libvr_object_engine.so|784e1e314a918f20c1aca10570aa1b214cdea1d5
-system_ext/lib/vendor.qti.hardware.audiohalext@1.0.so|75c86276c13bbc5c5f5067714f94fc3aeb7c9c6e
+# system_ext/lib/vendor.qti.hardware.audiohalext@1.0.so|75c86276c13bbc5c5f5067714f94fc3aeb7c9c6e
 system_ext/lib/vendor.qti.voiceprint@1.0.so|861ba84f4e1a28a32f2aaf36d2a687ff2e16d0a7
 system_ext/lib64/libbinauralrenderer_wrapper.qti.so|1b109f9fd3f31bbd76b5236f4ddeff338ec95ac3
 system_ext/lib64/libhoaeffects.qti.so|8cb64c60631344420a248fdbbaa417c621c00c07
@@ -67,7 +67,7 @@ system_ext/lib64/liblsmclient.so|42bb8883f0b9b0f82ed845bb60f6499615a9c6fe
 system_ext/lib64/libqxrsplitauxservice.qti.so|fc27369bc454cad2ef7acc74dd30c4e7f567a82e
 system_ext/lib64/libvr_amb_engine.so|8f1f367eb17af1cc9d260648c415120b3b9f2e10
 system_ext/lib64/libvr_object_engine.so|9909bce7e217367e9c0aaef1f13b3605a7377849
-system_ext/lib64/vendor.qti.hardware.audiohalext@1.0.so|ccb0ad2128813d6c52f6ec402dbd7feaa719f292
+# system_ext/lib64/vendor.qti.hardware.audiohalext@1.0.so|ccb0ad2128813d6c52f6ec402dbd7feaa719f292
 system_ext/lib64/vendor.qti.hardware.qxr-V1-ndk_platform.so|605b523762032e26eeb5ea69cfedc6df272082d3
 system_ext/lib64/vendor.qti.voiceprint@1.0.so|eafdb85ba464749dcdd8c0436aff82ea399edbcd
 
